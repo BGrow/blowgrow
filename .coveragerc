@@ -1,0 +1,5 @@
+[run]
+include = blowgrow/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
